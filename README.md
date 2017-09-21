@@ -1,5 +1,5 @@
 # WS-Features
-Solltest du nicht wissen, was die WebSuite ist, so kannst du dir das hier nachlesen: https://github.com/NodeLabIT/WebSuite-Core/tree/development
+Solltest du nicht wissen, was die WebSuite ist, so kannst du dir das hier nachlesen: https://github.com/NodeLabIT/WebSuite-Core/tree/development#websuite
 
 ### Vorschlag einreichen
 Du möchtest eine Idee oder einen Vorschlag einreichen und somit an der Entwicklung der WebSuite maßgeblich beteiligt sein?
